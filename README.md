@@ -43,7 +43,7 @@ This repository contains the code for the paper "[Spectral Complexity-scaled Gen
 
 For any issue, please kindly contact
 
-Hoawen Chen: [haowchen@student.ethz.ch](mailto: haowchen@student.ethz.ch)  
+Hoawen Chen: [haowchen@student.ethz.ch](mailto:haowchen@student.ethz.ch)  
 Fengxiang He: [fengxiang.f.he@gmail.com](mailto:fengxiang.f.he@gmail.com)  
 Shiye Lei: [leishiye@gmail.com](mailto:leishiye@gmail.com)  
 Dacheng Tao: [dacheng.tao@sydney.edu.au](mailto:dacheng.tao@sydney.edu.au)
