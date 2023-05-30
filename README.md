@@ -34,8 +34,8 @@ This repository contains the code for the paper "[Spectral Complexity-scaled Gen
 @article{chen2021spectral,
   title={Spectral Complexity-scaled Generalization Bound of Complex-valued Neural Networks},
   author={Chen, Haowen and He, Fengxiang and Lei, Shiye and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2112.03467},
-  year={2021}
+  journal={Artificial Intelligence},
+  year={2023}
 }
 ```
 
@@ -44,7 +44,7 @@ This repository contains the code for the paper "[Spectral Complexity-scaled Gen
 For any issue, please kindly contact
 
 Hoawen Chen: [haowchen@student.ethz.ch](mailto:haowchen@student.ethz.ch)  
-Fengxiang He: [fengxiang.f.he@gmail.com](mailto:fengxiang.f.he@gmail.com)  
+Fengxiang He: [F.He@ed.ac.uk](mailto:F.He@ed.ac.uk)  
 Shiye Lei: [leishiye@gmail.com](mailto:leishiye@gmail.com)  
 Dacheng Tao: [dacheng.tao@sydney.edu.au](mailto:dacheng.tao@sydney.edu.au)
 
