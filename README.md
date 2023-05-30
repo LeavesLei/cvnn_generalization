@@ -31,7 +31,7 @@ This repository contains the code for the paper "[Spectral Complexity-scaled Gen
 
 ## Citation
 ```
-@article{chen2021spectral,
+@article{chen2023spectral,
   title={Spectral Complexity-scaled Generalization Bound of Complex-valued Neural Networks},
   author={Chen, Haowen and He, Fengxiang and Lei, Shiye and Tao, Dacheng},
   journal={Artificial Intelligence},
